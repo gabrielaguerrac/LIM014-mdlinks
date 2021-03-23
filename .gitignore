@@ -1,0 +1,48 @@
+#node modules
+node_modules/
+
+#otros
+*.swp
+coverage/
+
+#files de mac
+*.DS_Store
+#files zip
+*.rar
+*.zip
+
+
+#backup files
+~*
+*~
+*#
+.~*
+
+#other software
+.kdev4/*
+.directory
+*.kdev4
+.kdev4
+
+#files log
+*.log
+
+#files cache
+zend_cache---*
+
+#archivos captcha
+captcha/*.png
+
+#private ini of Proyect
+*private.ini
+src/application/configs/local.ini
+application/configs/local.ini
+
+#dir of Cache
+*/cache/*
+cache*
+
+#temporales
+*temp_*
+
+*.orig
