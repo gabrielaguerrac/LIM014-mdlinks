@@ -33,7 +33,9 @@ algunas estadísticas.
 
 ![md-links](https://user-images.githubusercontent.com/110297/42118443-b7a5f1f0-7bc8-11e8-96ad-9cc5593715a6.jpg)
 
-![diagrama v1](https://user-images.githubusercontent.com/67443691/111880323-d9e9ef80-8978-11eb-8eec-8002c45d5aac.png)
+
+**versión 2**
+![Diag Flujo v2](https://user-images.githubusercontent.com/67443691/112231076-04031200-8c04-11eb-8b2a-10dd3929fa9a.png)
 ## 2. Resumen del proyecto
 
 [Node.js](https://nodejs.org/es/) es un entorno de ejecución para JavaScript
