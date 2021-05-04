@@ -9,6 +9,9 @@
   "scripts": {
     "test": "jest --verbose --coverage"
   },
+  "bin": {
+    "mdLinks": "cli.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gabrielaguerrac/LIM014-mdlinks.git"
