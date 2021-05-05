@@ -1,20 +1,19 @@
 # Markdown Links
 
+("https://user-images.githubusercontent.com/67443691/117096159-e0b4a200-ad2d-11eb-9dd3-aa60a6df062a.png")
+
 ## Índice
 
-* [1. Preámbulo](#1-preámbulo)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
-* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
-* [4. Consideraciones generales](#4-consideraciones-generales)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Entregables](#6-entregables)
-* [7. Hacker edition](#7-hacker-edition)
-* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
-* [9. Checklist](#9-checklist)
+* [1. Descripción general](#1-descripción-general)
+* [2. Cómo instalar](#2-como-instalar)
+* [3. Ejemplos](#3-ejemplos)
+
 
 ***
 
-## 1. Preámbulo
+## 1. Descripción General
+
+Con la librería mdLinks podrás leer un archivo Markdown e identificar si
 
 [Markdown](https://es.wikipedia.org/wiki/Markdown) es un lenguaje de marcado
 ligero muy popular entre developers. Es usado en muchísimas plataformas que
